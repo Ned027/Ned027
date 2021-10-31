@@ -1,4 +1,4 @@
-- 👋 Olá, sou @ NED
+- 👋 Olá, sou @ Ned
 - 🌱 Atualmente estou aprendendo: python
 - 📫 Como me encontrar: NED#6325
 
