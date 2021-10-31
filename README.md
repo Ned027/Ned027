@@ -3,8 +3,8 @@
 - 📫 Como me encontrar: NED#6325
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ned&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ned&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NED027&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NED027&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
