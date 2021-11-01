@@ -1,3 +1,10 @@
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+
+<p align="center">
+
 - 👋 Olá, sou @ Ned
 - 🌱 Atualmente estou aprendendo: python
 - 📫 Como me encontrar: NED#6325
