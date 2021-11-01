@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Ned027/Ned027/blob/main/header_.png?raw=true" />
+<img src="https://github.com/Ned027/Ned027/blob/main/javascript.png?raw=true" />
 
 <p align="center">
 
