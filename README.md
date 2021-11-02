@@ -7,7 +7,7 @@
 
 - 👋 Olá, sou @ Ned
 - 🌱 Atualmente estou aprendendo: python
-- 📫 Como me encontrar: NED#6325
+- 📫 contato: NED#6325
 
 <div align="center">
   <a href="https://github.com/Ned027">
