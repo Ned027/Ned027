@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Ned027/Ned027/blob/main/fofo.gif?raw=true" />
+<img src="https://github.com/Ned027/Ned027/blob/main/nike.gif" />
 
 <p align="center">
 
