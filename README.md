@@ -13,15 +13,17 @@
  <h4>
   
 ```nix
-  
-  const Discord = require("discord.js")
+  let
+  const Discord = require("discord.js");
   module.exports = {
-  name = Ned
-  Ola sou = Ned
-Atualmente estou aprendendo = python
-discord = NED#6325
+  name = Ned;
+  Ola sou = Ned;
+Atualmente estou aprendendo = python;
+discord = NED#6325;
 ```
 </h4>
+
+##
  
  ## Linguagens e ferramentas:
 <img align="left" title="Javascript" alt="Javascript" width="25px" src="https://addons-media.operacdn.com/media/CACHE/images/extensions/65/203065/1.2.4.1-rev2/images/0cded3a3276425911d55a2552bf361bf/7852aa99f857cd72012843b4cce5090f.jpg"/>
