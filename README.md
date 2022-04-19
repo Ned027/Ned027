@@ -9,6 +9,7 @@
 - 👋 Olá, sou @ Ned
 - 🌱 Atualmente estou aprendendo: python
 - 📫 contato: NED#6325
+- 🤖 Meu bot discord: https://nedbot.online/
  
  <h4>
   
