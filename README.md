@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hey, I'm Ned!</h1>
 
-<div align="center">
-  <a href="https://status.krypton.ninja/spotify?open">
-    <img src="https://status.31ok6uhri2pf6mpdcx4ntmb5gbu4/spotify?open" width="256" height="64" alt="Spotify Now Playing">
-  </a>
-</div>
-
 <p align="center">Hey there, I’m Ned! I’m a small developer, competitive shooter and wannabe security researcher. I like computers <i>(surprised?)
 
 - 🛠️ I'm currently working on some **offensive tools** and **too many side projects**.
