@@ -1,12 +1,11 @@
-<h1 align="center">👋 Hey, I'm Ned!</h1>
+<h1 align="center">👋 Oi, eu sou o Ned!</h1>
 
-<p align="center">Hey there, I’m Ned! I’m a small developer, competitive shooter and wannabe security researcher. I like computers <i>(surprised?)
+<p align="center">Olá, eu sou o Ned! Sou um pequeno desenvolvedor, atirador competitivo e aspirante. Eu gosto de computadores <i>(surpreso?).
 
-- 🛠️ I'm currently working on some **offensive tools** and **too many side projects**.
-- 🌱 I'm currently learning **Python** & **TypeScript**.
-- 💭 Ask me things about anything and I will try to answer.
-- 😀 Fun facts My favorite animal is a dog  my favorite color is [#1BDD3B](https://www.color-hex.com/color/1bdd3b) or any type of green
-
+-🛠️ Atualmente estou trabalhando em algumas ferramentas ofensivas e demais projetos paralelos.
+- 🌱 Atualmente estou aprendendo **Python** e **TypeScript**.
+- 💭 Pergunte-me coisas sobre qualquer coisa e tentarei responder.
+- 😀 Curiosidades Meu animal favorito é um cachorro, minha cor favorita é [#1BDD3B](https://www.color-hex.com/color/1bdd3b) ou qualquer tipo de verde.
 
 
 
