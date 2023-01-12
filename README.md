@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://status.krypton.ninja/spotify?open">
-    <img src="https://status.krypton.ninja/spotify" width="256" height="64" alt="Spotify Now Playing">
+    <img src="https://status.31ok6uhri2pf6mpdcx4ntmb5gbu4/spotify?open" width="256" height="64" alt="Spotify Now Playing">
   </a>
 </div>
 
