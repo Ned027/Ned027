@@ -1,13 +1,15 @@
-<h1 align="center">👋 Oi, eu sou o Ned!</h1>
+### Olá, eu sou Welber silva 
 
-<p align="center">Olá, eu sou o Ned! Sou um pequeno desenvolvedor, atirador competitivo e aspirante. Eu gosto de computadores <i>(surpreso?).
+<div align="center">
+  <a href="https://github.com/Ned027">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ned027&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ned027&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+### Contato e Informações:
 
-- 🛠️ Atualmente estou trabalhando em algumas ferramentas ofensivas e demais projetos paralelos.
-- 🌱 Atualmente estou aprendendo **Python**
-- 💭 Pergunte-me coisas sobre qualquer coisa e tentarei responder.
-- 😀 Curiosidades Meu animal favorito é um cachorro, minha cor favorita é [#1BDD3B](https://www.color-hex.com/color/1bdd3b) ou qualquer tipo de verde.
-
-
-
-
-
+ <div> 
+  <a href="https://instagram.com/ade_bertolin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ademilson-bertolin-a002b31ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:yned072@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
