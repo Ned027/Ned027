@@ -1,4 +1,4 @@
-### Olá, eu sou Welber silva 
+### Olá! meu nome é Welber da silva, tenho 18 anos e sou apaixonado por programação.
 
 <div align="center">
   <a href="https://github.com/Ned027">
